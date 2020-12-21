@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestNotificationsApp</string>
+
+    <string name="create_new_notification">Create new \nnotification</string>
+    <string name="notification_title">You create a notification</string>
+    <string name="notification_text">Notification %1$d</string>
+    <string name="notification">Notification</string>
 </resources>
